@@ -1,0 +1,8 @@
+*.exe
+ola
+*.out
+
+.vscode/
+.DS_Store
+
+segredos.txt
