@@ -1,0 +1,3 @@
+gcc main.c -o ola: compila um arquivo
+./ola: executa o arquivo
+touch nomeDoArquivo: cria um arquivo
